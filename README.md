@@ -3,3 +3,4 @@
 - git commit
 - git branch
 - git remote add origin git@github.com:Dheerajkumarchoudhary/git_learn2.git
+- git push origin main
