@@ -1,1 +1,5 @@
-some header
+- git init
+- git add
+- git commit
+- git branch
+- git remote add origin git@github.com:Dheerajkumarchoudhary/git_learn2.git
